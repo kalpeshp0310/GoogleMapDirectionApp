@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_data_connection_msg">Internet Connection Unavailable</string>
+    <string name="server_connection_error_msg">Error connection to Direction Server</string>
+    <string name="response_no_found_msg">At least one of the locations specified in the request\'s origin, destination could not be geocoded.</string>
+    <string name="response_zero_result">No route could be found between the origin and destination</string>
+    <string name="response_invalid_request">Invalid request</string>
+    <string name="response_query_overlimit">The service has received too many requests from your application within the allowed time period.</string>
+    <string name="response_request_denied">This application can not user direction service</string>
+    <string name="response_unknown_error">Unknown Error occurred</string>
+</resources>
